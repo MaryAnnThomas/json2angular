@@ -1,0 +1,17 @@
+[
+    {
+        "ID": "1",
+        "Name": "Bengaluru",
+        "Code": "BLR"
+    },
+    {
+        "ID": "2",
+        "Name": "Kochi",
+        "Code": "KOC"
+    },
+    {
+        "ID": "3",
+        "Name": "Chennai",
+        "Code": "CHN"
+    }
+]
